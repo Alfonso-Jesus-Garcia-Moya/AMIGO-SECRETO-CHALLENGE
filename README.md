@@ -1,4 +1,4 @@
-# AMIGO-SECRETO-CHALLENGE
+# AMIGO-SECRETO-CHALLENGE - ALFONSO JESUS GARCIA MOYA
 # Descripción del Proyecto
 Este proyecto implementa un juego de "Amigo Secreto" en el que los usuarios pueden agregar sus nombres a una lista y luego realizar un sorteo aleatorio para asignar un amigo secreto. El sistema es interactivo y permite a los usuarios agregar, visualizar y sortear los nombres de amigos de manera sencilla y rápida.
 
